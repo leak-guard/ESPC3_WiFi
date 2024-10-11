@@ -1,3 +1,0 @@
-C:/Users/Philip/STM32CubeIDE/workspace_1.13.2/ESPC3_WiFi/cmake-build-debug-stm32/CMakeFiles/ESPC3_WiFi.elf.dir
-C:/Users/Philip/STM32CubeIDE/workspace_1.13.2/ESPC3_WiFi/cmake-build-debug-stm32/CMakeFiles/edit_cache.dir
-C:/Users/Philip/STM32CubeIDE/workspace_1.13.2/ESPC3_WiFi/cmake-build-debug-stm32/CMakeFiles/rebuild_cache.dir
